@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorianRGA
 - 👀 I’m interested in learning more stuff
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning Node/React
 - 💞️ I’m looking to collaborate on backend and front end projects
 - 📫 How to reach me (No Info for now, Catch you later)
 
